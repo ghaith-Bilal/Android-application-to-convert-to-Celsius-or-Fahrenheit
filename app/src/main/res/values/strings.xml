@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertApp</string>
+    <string name="conv_name">Temp Converter</string>
+    <string name="temp_hint_text">Enter the temperature</string>
+    <string name="celsuis_temp">C</string>
+    <string name="f_button_title">F</string>
+</resources>
